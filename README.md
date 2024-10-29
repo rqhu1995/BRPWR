@@ -8,4 +8,4 @@ This directory provides links to code and data used in solving different scales 
 - **Large-Scale Instances (solved with the proposed HGSADC-SBC algorithm):**  
   Access code and data here: [BRPWR-HGSADC-SBC](https://github.com/rqhu1995/BRPWR-HGSADC-SBC)
 
-Each link provides the code, data specification, and the execution requirement followed by the command and arguments.
+Each link provides codes, data specification, the execution requirement with example command and arguments, and additional supplementary information.
