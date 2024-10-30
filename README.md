@@ -7,7 +7,7 @@ Please visit accordingly:
 - **Solving the problem using Gurobi:**  
   Access code and data here: [BRPWR-Gurobi](https://github.com/rqhu1995/BRPWR-Gurobi)
 
-- **Solving the problem using the proposed HGSADC-SBC algorithm):**  
+- **Solving the problem using the proposed HGSADC-SBC algorithm:**  
   Access code and data here: [BRPWR-HGSADC-SBC](https://github.com/rqhu1995/BRPWR-HGSADC-SBC)
 
 Each link provides codes, data specification, the execution requirement with example command and arguments, and additional supplementary information.
